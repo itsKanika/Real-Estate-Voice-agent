@@ -7,6 +7,7 @@ Retell + Twilio Trial Caller
 
 Small trial app for outbound real estate lead qualification calls.
 
+
 The browser triggers a call, the server calls Retell's Create Phone Call API, Retell uses your imported/bound Twilio number, and Retell webhooks/tool calls update the dashboard with transcript, analysis, and property estimate data.
 
 ## What is included
