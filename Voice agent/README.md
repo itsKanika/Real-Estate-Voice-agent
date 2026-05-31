@@ -13,7 +13,7 @@ The browser triggers a call, the server calls Retell's Create Phone Call API, Re
 Demo 
 
 
-https://github.com/user-attachments/assets/738bba47-a426-492d-9125-1b7a840a1931
+https://github.com/user-attachments/assets/180c8fd6-ae8a-45a5-8962-de207b4f6217
 
 
 
