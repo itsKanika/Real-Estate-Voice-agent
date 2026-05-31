@@ -10,6 +10,13 @@ Small trial app for outbound real estate lead qualification calls.
 
 The browser triggers a call, the server calls Retell's Create Phone Call API, Retell uses your imported/bound Twilio number, and Retell webhooks/tool calls update the dashboard with transcript, analysis, and property estimate data.
 
+Demo 
+
+
+https://github.com/user-attachments/assets/738bba47-a426-492d-9125-1b7a840a1931
+
+
+
 ## What is included
 
 - Frontend dashboard to trigger calls and view call history.
