@@ -1,5 +1,6 @@
 
 
+
 <img width="1440" height="547" alt="Screenshot 2026-06-01 at 2 24 46 AM" src="https://github.com/user-attachments/assets/824b4050-fc9a-4767-98b6-4e12d77ddb24" />
 
 <img width="1600" height="956" alt="WhatsApp Image 2026-06-01 at 02 02 46" src="https://github.com/user-attachments/assets/5418118b-2b70-4c97-9a67-72e19ddd6fdc" />
@@ -11,6 +12,7 @@ Small trial app for outbound real estate lead qualification calls.
 
 
 The browser triggers a call, the server calls Retell's Create Phone Call API, Retell uses your imported/bound Twilio number, and Retell webhooks/tool calls update the dashboard with transcript, analysis, and property estimate data.
+<img width="1536" height="1024" alt="ai" src="https://github.com/user-attachments/assets/e28f7ce0-8548-492e-951d-39fd8c0e7f23" />
 
 Demo 
 
